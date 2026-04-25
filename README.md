@@ -2,8 +2,6 @@
 
 ## The journal that keeps you pointed north.
 
-<img src="Docs/images/hero.png" alt="Someday app screenshot" />
-
 Someday is a calm iOS companion app for staying connected to your long-term aspirations. It is not a task manager or habit tracker. It is a slow, trusted companion that keeps gently pointing at the horizon.
 
 The home screen is a living solar system: a North Star at the centre representing your ultimate direction, with planets orbiting it (each one a long-term aspiration), and moons orbiting them, representing meaningful experiences you have logged against each aspiration.
